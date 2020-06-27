@@ -13,3 +13,6 @@
 `Sandwiches.xcassets`
 存放三明治的圖片
 
+## Activity
+
+0627：完成到影片 10:28。

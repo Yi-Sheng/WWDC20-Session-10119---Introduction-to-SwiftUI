@@ -2,7 +2,7 @@
 
 此範例用來學習 SwiftUI
 
-資料來源：[Introduction to SwiftUI](https://developer.apple.com/videos/play/wwdc2020/10119/) © Apple WWDC2020  
+資料來源：[Introduction to SwiftUI](https://developer.apple.com/videos/play/wwdc2020/10119/) © Apple WWDC20  
 圖片來源：[Sandwichs-iOS14-WWDC-Tutorial](https://github.com/davidakoontz/Sandwichs-iOS14-WWDC-Tutorial/#sandwichs-ios14-wwdc-tutorial)
 
 ## Resources
